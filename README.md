@@ -1,4 +1,4 @@
-# Hi there, I'm [Mikhaela D.]!
+# Hi there, I'm Mikhaela D.!
 
 I'm a passionate and motivated **aspiring software developer** currently studying at [TripleTen](https://tripleten.com). I’m focused on building clean, responsive websites and continuously improving my technical skills.
 
