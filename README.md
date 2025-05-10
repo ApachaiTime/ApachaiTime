@@ -23,6 +23,6 @@ Here are some of the projects I’ve worked on as part of my learning journey:
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mikhaela-trimm-9b7793277/)
-- [Email](Mikhaelatrimm@gmail.com)
+- [Email] Mikhaelatrimm@gmail.com
 
 I'm excited to grow as a developer and contribute to meaningful projects. Thanks for visiting my page!
